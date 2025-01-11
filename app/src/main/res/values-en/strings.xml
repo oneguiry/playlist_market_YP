@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="quest">Question</string>
+    <string name="quese_quest">Question</string>
+    <string name="rating_anime">Rating this anime higher than 9?</string>
+    <string name="yes_resp">Yes</string>
+    <string name="no_resp">No</string>
+</resources>
